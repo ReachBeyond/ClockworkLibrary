@@ -1,0 +1,6 @@
+[submodule "Assets/ReachBeyond/Plugins/EventObjects"]
+	path = Assets/ReachBeyond/Plugins/EventObjects
+	url = git@github.com:ReachBeyond/EventObjects.git
+[submodule "Assets/ReachBeyond/Plugins/VariableObjects"]
+	path = Assets/ReachBeyond/Plugins/VariableObjects
+	url = git@github.com:ReachBeyond/VariableObjects.git
