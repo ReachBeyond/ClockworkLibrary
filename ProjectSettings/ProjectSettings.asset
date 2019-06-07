@@ -528,7 +528,7 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   scriptingDefineSymbols:
-    1: 
+    1: REACHBEYOND_VAROBJ_BUILTIN_MODE
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
