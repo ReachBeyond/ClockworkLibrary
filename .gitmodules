@@ -4,3 +4,6 @@
 [submodule "Assets/ReachBeyond/Plugins/VariableObjects"]
 	path = Assets/ReachBeyond/Plugins/VariableObjects
 	url = git@github.com:ReachBeyond/VariableObjects.git
+[submodule "Assets/ReachBeyond/Plugins/ScriptSupport"]
+	path = Assets/ReachBeyond/Plugins/ScriptSupport
+	url = git@github.com:ReachBeyond/ScriptSupport.git
